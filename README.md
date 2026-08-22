@@ -106,7 +106,7 @@ The main purpose of this project is to demonstrate:
 
 **Bhuvaneshwari Kinni**
 
-GitHub: [Add your GitHub profile link]
+GitHub:https://github.com/Bhuvaneshwarikinni/Student-Report-System
 
 ---
 
